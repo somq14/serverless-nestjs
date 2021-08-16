@@ -702,6 +702,11 @@
   dependencies:
     "@sinonjs/commons" "^1.7.0"
 
+"@types/aws-lambda@^8.10.82":
+  version "8.10.82"
+  resolved "https://registry.yarnpkg.com/@types/aws-lambda/-/aws-lambda-8.10.82.tgz#336062d3270f52d2156eeb7d9e497fd63684572a"
+  integrity sha512-sJo8pz8hu+OzLRAj7Do2g66zYLizWtB3kGK6K45RWmGW+S54XXMoK3sNbvzKXfndBxYiSVExHoCNiSlt2gPmxw==
+
 "@types/babel__core@^7.0.0", "@types/babel__core@^7.1.7":
   version "7.1.14"
   resolved "https://registry.yarnpkg.com/@types/babel__core/-/babel__core-7.1.14.tgz#faaeefc4185ec71c389f4501ee5ec84b170cc402"
@@ -988,6 +993,11 @@
   dependencies:
     "@typescript-eslint/types" "4.22.0"
     eslint-visitor-keys "^2.0.0"
+
+"@vendia/serverless-express@^4.3.9":
+  version "4.3.9"
+  resolved "https://registry.yarnpkg.com/@vendia/serverless-express/-/serverless-express-4.3.9.tgz#0ed1deb79ad177bf0e97fcdd31f99a5db9e532fa"
+  integrity sha512-lfnnnJ/J9rpa4tDqkPzDMmJr+c489YI81i7P9JWZyf3zAKowaF0t1SeR3g9zUJYmTOn9glmqjiaG+OvNvxY7UQ==
 
 "@webassemblyjs/ast@1.11.0":
   version "1.11.0"
